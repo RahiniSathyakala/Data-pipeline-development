@@ -58,5 +58,7 @@ twitter-sentiment-pipeline/
 │── requirements.txt      # Dependencies
 ```
 
+## Output
 
-Contributions are welcome! Feel free to fork, raise issues, or submit pull requests.
+```
+
