@@ -61,6 +61,4 @@ twitter-sentiment-pipeline/
 ## Output
 
 ```
-<img width="1920" height="1021" alt="Image" src="https://github.com/user-attachments/assets/5c90bd99-adb5-4dde-b898-39841f691d5c" />
 
-<img width="1102" height="999" alt="Image" src="https://github.com/user-attachments/assets/f86c5eb5-8a9a-49df-b0ab-112a81bc4f48" />
